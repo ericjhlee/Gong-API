@@ -1,0 +1,6 @@
+# Ignore node modules folder
+node_modules
+
+# Ignore MongoDB database folder
+data
+data_test

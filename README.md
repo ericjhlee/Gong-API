@@ -8,7 +8,7 @@ Requirement
  2. Create ./data folder
  3. Install all node dependencies:
 
-`sudo npm install`
+  `sudo npm install`
 
   [1]: http://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/
   [2]: http://nodejs.org/download/
@@ -18,8 +18,8 @@ Execution Instructions
 
  1. Run MongoDB on ./data folder using:
 
-`mongod --dbpath ./data`
+  `mongod --dbpath ./data`
 
  2. Execute the Node server:
 
-`node server.js`
+  `node server.js`

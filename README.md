@@ -6,6 +6,9 @@ Requirement
 
  1. Install [MongoDB][1] and [Node.js][2]
  2. Create ./data folder
+
+  `mkdir ./data`
+
  3. Install all node dependencies:
 
   `sudo npm install`

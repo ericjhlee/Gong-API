@@ -11,7 +11,8 @@ var router = express.Router();
 // Configure routes
 //
 // TODO: Setup routes here
-// router.use('/follow', follow);
-// router.use('/listen', listen);
+router.use('/gongs', gongs);
+router.use('/users', users);
 
 module.exports = router;
+
